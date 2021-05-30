@@ -1227,9 +1227,9 @@
     "@types/yargs-parser" "*"
 
 "@webpack-contrib/defaults@^6.3.0":
-  version "6.2.0"
-  resolved "https://registry.npm.alibaba-inc.com/@webpack-contrib/defaults/download/@webpack-contrib/defaults-6.2.0.tgz#9db42a2adabda97e6f050b4e8acce8ecf24ae914"
-  integrity sha1-nbQqKtq9qX5vBQtOiszo7PJK6RQ=
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/@webpack-contrib/defaults/-/defaults-6.3.0.tgz#a234c1b197b7d9f09e34d9455db67fbd6a9c1cba"
+  integrity sha512-B5oYSmvwWbDILf2mgmJFkQe/BdWoiRm3+KbUkVAl/UdowvWKDDFd5w77WpGES3BTY+bgd4+GYf4cBXNQdbEv4Q==
   dependencies:
     chalk "^2.3.0"
     git-username "^1.0.0"
@@ -6978,9 +6978,9 @@ write@1.0.3:
     mkdirp "^0.5.1"
 
 ws@^7.0.0:
-  version "7.2.3"
-  resolved "https://registry.npm.alibaba-inc.com/ws/download/ws-7.2.3.tgz#a5411e1fb04d5ed0efee76d26d5c46d830c39b46"
-  integrity sha1-pUEeH7BNXtDv7nbSbVxG2DDDm0Y=
+  version "7.4.6"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.6.tgz#5654ca8ecdeee47c33a9a4bf6d28e2be2980377c"
+  integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
 
 xml-name-validator@^3.0.0:
   version "3.0.0"
